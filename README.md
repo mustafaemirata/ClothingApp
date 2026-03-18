@@ -116,4 +116,3 @@ Bu yapı sayesinde:
 **Mustafa Emir Ata**
 * GitHub: [mustafaemirata](https://github.com/mustafaemirata)
 
- burada resimler alt alta duruyor 2 tane yan yana altında 2 tane yine yan yana görünümlü gösterelim başlıklarıykla
