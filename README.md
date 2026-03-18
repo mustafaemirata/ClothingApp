@@ -87,16 +87,6 @@ Modern iOS geliştirme prensiplerine uygun olarak tasarlanmış ClothesApp, Fire
 
 </table>
 
-## ⚙️ Project Structure
-
-ClothesApp
-│
-├── Models
-├── ViewModels
-├── Views
-├── Services
-├── Firebase
-└── Utilities
 
 ## 🧠 Architecture Detail
 
